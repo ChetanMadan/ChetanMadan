@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetanmadan&label=Profile%20views&color=0e75b6&style=flat" alt="chetanmadan" /> </p>
 
-- 🔭 I’m currently working on **backend using Kotlin**
-
-- 🌱 I’m currently learning **DevOps**
+- 🔭 I’m currently working on **computer vision research**
 
 - 👯 I’m looking to collaborate on **anything involving machine learning!**
 
